@@ -1,6 +1,5 @@
 #!/usr/bin/env python
 
-import r2pipe
 import json
 import struct
 import cutter
